@@ -1,4 +1,4 @@
-# Heat-Risks-in-Swiss-Milk-Production
+# Code for the publication: Heat Risks in Swiss Milk Production
 
 Citation for the use of any code: 
 
