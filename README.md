@@ -30,4 +30,4 @@ The code has the following modular structure:
 
 09_descriptive_figures: Figures for descriptive statistics
 
-The appendix contains code to derive minimum detectable slopes of the models and run the robustness checks. Robustness checks only contain codes different from the main specification. Run these codes together with modular codes 01-08. 
+The appendix contains code to derive minimum detectable slopes of the models and run the robustness checks. Robustness checks only contain codes different from the main specification. Run these codes together with correpsonding modular codes 01-08. 
